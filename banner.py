@@ -7,8 +7,8 @@ const banner = `
  ╚═════╝╚═╝  ╚═╝   ╚═╝   ╚═╝        ╚═╝    ╚═════╝     ╚═╝  ╚═╝╚═╝╚═════╝ ╚══════╝╚══════╝
                                                                                           
                                                                                   
-                openLedger automation cli
+                   Dawn Bot
                    t.me/CryptoKidzs
-                Presented By: zlkcyber               \n`
+                             \n`
 
 export default banner;
